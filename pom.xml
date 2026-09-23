@@ -9,6 +9,9 @@
     <artifactId>2022wa86180</artifactId>
     <version>1.0</version>
 
-    <name>DevOpsLab</name>
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
 
 </project>
